@@ -1,3 +1,5 @@
+<h1>CodeClarity</h1>
+
 
 <div align="center">
   <img src="https://github.com/The-Pocket/.github/raw/main/assets/title.png" width="600"/>
